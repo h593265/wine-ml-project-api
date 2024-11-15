@@ -1,2 +1,3 @@
 website : https://wine-ml-project-client.onrender.com/
 frontend : https://wine-ml-project-client.onrender.com/
+kaggle : https://www.kaggle.com/code/danielendresen/notebookde0d96dba9
