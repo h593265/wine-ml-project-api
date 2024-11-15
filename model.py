@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)
 
 
-model = joblib.load('server/final_model.pkl')
+model = joblib.load('final_model.pkl')
 
 feature_names = [
     'fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 
